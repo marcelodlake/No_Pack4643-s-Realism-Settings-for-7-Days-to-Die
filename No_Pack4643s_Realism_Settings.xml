@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preset>
+	<property name="code" value="AAAKABLACJADKAELBRDBUBBTBBJABKCBLBBMCBNBCJACDACVLBWFBXDBYCCCBCGACHECKBCLBDCJDDKDGJDHKDJBDLADSAELHDTIAVCEKEEYAEZAEXFFCCEWAFJAEOAEPAEQAEUAEVAESAETAERK" />
+	<property name="description" value="" />
+	<property name="icon" value="Data/Sandbox/icons/user_custom" />
+	<!--
+		 *** GENERAL ***
+
+			Ranged Damage: 200%
+			Melee Damage: 250%
+			Block Damage: 150%
+			Terrain Damage: 200%
+			Headshot Multiplier: 250%
+
+		 *** ENTITIES ***
+
+			Max Enemy Tier: Ferals
+			Enemy Density: Very Low
+			Biome Animal Respawn: Very Slow
+			Zombie Night Speed: Walk
+			Zombie Feral Speed: Run
+			Zombie BM Speed: Jog
+			Zombie Feral Sense: Night
+			AI Smell Mode: Walk
+
+		 *** WORLD ***
+
+			Biome Game Stage: Very Low
+			Biome Progression: No
+			Workstations In The Wild: 100%
+			Blood Moon Frequency: 5 Days
+			Blood Moon Range: 3 Days
+			Blood Moon Warning: Evening
+			Air Drop Variance: Morning
+			Storm Warning: No
+			Heat Map Sensitivity: High
+
+		 *** RESOURCES ***
+
+			Global Loot Stage: Low
+			Biome Loot Stage: Low
+			Drink Abundance: 150%
+			Medical Abundance: 200%
+			Armor Abundance: 150%
+			Melee Abundance: 200%
+			Currency Abundance: 25%
+			Treasure Map Chance: None
+
+		 *** CRAFTING ***
+
+			Crafting Progression: No
+			Magazine Progress: 7
+			Crafting Timer: 300%
+			Item Degradation: Low
+			Repair Degradation: 20%
+
+		 *** TRADERS ***
+
+			Trading Enabled: No
+			Vending Enabled: No
+			Trader Hours: BM Closed
+			Trader Protection: Not Claimable
+			Trading Dialog: No
+
+		 *** TASKS ***
+
+			Challenges: No
+			Quests: No
+			Intro Quest: No
+			Trade Routes: No
+			Buried Quests: No
+			POI Quests: No
+			Quests Per Tier: None
+			Quests Per Day: Unlimited
+			Base Skill Points: 10
+	-->
+</preset>
