@@ -8,15 +8,23 @@ Here's a summary.
 
 First off, Brightness is toned down below 30%. You can go as down as you want, the game does a pretty good job at adapting the light amount when you change ambients. If you want real frightening nights, I suggest you grab the Horror Nights mod.
 Major SANDBOX settings (that differ from default):
-• [PLAYER] Ranged damage 200%, Melee damage 250%;
-• [ENTITIES] Enemy density: LOW. Max enemy tier: FERAL (I avoid magical/supernatural enemies - the rancher and some simple mutated zombies are enough for me. But feel free to add all crazy mobs if you want);
-• [WORLD] Biome progression: NO. Biome game stage: Very low. Max Tech Type: 2. Temp survival: YES. Blood moon frequency: 5 Days, +- 3 Days (Blood moon can't be predicted). BM Warning: Evening. Heatmap sensitivity: HIGH. Storm warning: NO.
-• [RESOURCES] Biome loot stage: Low. Global loot stage: Low. Drink abundance: 150%. Medical abundance: 150%. Melee abundance: 200%. Currency abundance: None. Treasure map chance: None. Crafting progression: NO. Magazine progress: 7. Crafting timer: 300%. Item degradation: Low. Repair degradation: 20%. 
-• [TRADERS]: All turned off.
-• [TASKS] All turned off.
-• [MISC] Vehicle fuel usage: 50%. This is so the game doesn't force you to become both an Oil Shale miner and a chemist to be able to ride a vehicle. You can sustain your gas by looting exclusively.
+
+[PLAYER] Ranged damage 200%, Melee damage 250%;
+
+[ENTITIES] Enemy density: LOW. Max enemy tier: FERAL (I avoid magical/supernatural enemies - the rancher and some simple mutated zombies are enough for me. But feel free to add all crazy mobs if you want);
+
+[WORLD] Biome progression: NO. Biome game stage: Very low. Max Tech Type: 2. Temp survival: YES. Blood moon frequency: 5 Days, +- 3 Days (Blood moon can't be predicted). BM Warning: Evening. Heatmap sensitivity: HIGH. Storm warning: NO.
+
+[RESOURCES] Biome loot stage: Low. Global loot stage: Low. Drink abundance: 150%. Medical abundance: 150%. Melee abundance: 200%. Currency abundance: None. Treasure map chance: None. Crafting progression: NO. Magazine progress: 7. Crafting timer: 300%. Item degradation: Low. Repair degradation: 20%. 
+
+[TRADERS]: All turned off.
+
+[TASKS] All turned off.
+
+[MISC] Vehicle fuel usage: 50%. This is so the game doesn't force you to become both an Oil Shale miner and a chemist to be able to ride a vehicle. You can sustain your gas by looting exclusively.
+
 Airdrops can be turned off if you want to play safe around immersion.
------
+
 Those are the main settings, but the important tweaks com from the XMLs, like the ones I provided in this repository inside a ZIP file.
 They should go insode the Game root folder > Data > Config. They can be altered as you want. You can right click them and edit them with notepad. Be very careful as syntax is delicate. If you don't know what you're doing ask ChatGPT LOL.
 
