@@ -1,10 +1,12 @@
+As requested by some of you, I made my 7 Days to Die realism settings public.
+
 Config.zip contains all XML files to be put into game root > Data > Config. Make a backup of your XMLs before doing so.
 
 The settings XML (No_Pack6463's_Realism_Settings.XML) can be placed into your C:\Users\username\AppData\Roaming\7DaystoDie\Presets folder.
+You can alternatively past this sequence into your game preset launcher:
+AAAKABLACJADKAELBRDBUBBTBBJABKCBLBBMCBNBCJACDACVLBWFBXDBYCCCBCGACHECKBCLBDCJDDKDGJDHKDJBDLADSAELHDTIAVCEKEEYAEZAEXFFCCEWAFJAEOAEPAEQAEUAEVAESAETAERK
 
-As requested by some of you, I made my 7 Days to Die realism settings public.
-
-Here's a summary.
+Here's a summary of the changes.
 
 First off, Brightness is toned down below 30%. You can go as down as you want, the game does a pretty good job at adapting the light amount when you change ambients. If you want real frightening nights, I suggest you grab the Horror Nights mod.
 Major SANDBOX settings (that differ from default):
